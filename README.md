@@ -1,4 +1,5 @@
 Java
 ====
+Author: Forrest Meade (fmeade)
 
-Various Java projects and partial files
+Description: Various Java projects and partial files
